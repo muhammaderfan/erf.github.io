@@ -10,7 +10,7 @@ layout: default
 *   [Web of Science](https://publons.com/researcher/2062708/muhammad-erfan/)
 
 ### My Books
-<p><a target="_blank" rel="noopener noreferrer" href="https://isbn.perpusnas.go.id/Account/SearchBuku?searchTxt=978-623-6829-56-1&searchCat=ISBN"><img src="https://github.com/muhammaderfan/erf.github.io/blob/master/assets/img/everycircuit_github.png" alt="Octocat" data-canonical-src="https://github.githubassets.com/images/icons/emoji/octocat.png" style="max-width:100%;"></a>&nbsp;&nbsp;<a target="_blank" rel="noopener noreferrer" href="https://isbn.perpusnas.go.id/Account/SearchBuku?searchTxt=978-623-317-130-4&searchCat=ISBN"><img src="https://github.com/muhammaderfan/erf.github.io/blob/master/assets/img/mekanika_github.png" alt="Octocat" data-canonical-src="https://github.githubassets.com/images/icons/emoji/octocat.png" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://isbn.perpusnas.go.id/Account/SearchBuku?searchTxt=978-623-6829-56-1&searchCat=ISBN"><img src="https://raw.githubusercontent.com/muhammaderfan/erf.github.io/master/assets/img/everycircuit_github.png" alt="Octocat" data-canonical-src="https://github.githubassets.com/images/icons/emoji/octocat.png" style="max-width:100%;"></a>&nbsp;&nbsp;<a target="_blank" rel="noopener noreferrer" href="https://isbn.perpusnas.go.id/Account/SearchBuku?searchTxt=978-623-317-130-4&searchCat=ISBN"><img src="https://raw.githubusercontent.com/muhammaderfan/erf.github.io/master/assets/img/mekanika_github.png" alt="Octocat" data-canonical-src="https://github.githubassets.com/images/icons/emoji/octocat.png" style="max-width:100%;"></a></p>
 
 
 ### Journal Editor
